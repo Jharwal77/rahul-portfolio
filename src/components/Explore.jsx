@@ -4,7 +4,7 @@ function Explore() {
     {
       title: "Resume",
       desc: "Download Resume",
-      link: "/Rahul_Resume.pdf"
+      link: "/RAHUL_MEENA_RESUME_.pdf"
 
     },
 
