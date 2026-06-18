@@ -240,40 +240,47 @@ function Projects() {
 
       </div>
 
-      {/* AI Chat Room */}
+  
+<div className="project-card">
 
-      <div className="project-card">
+  <h3>
+    AI Resume Bullet Generator
+  </h3>
 
-        <h3>
-          AI Private Chat Room
-        </h3>
+  <p>
+    AI-powered full-stack web application built using
+    React.js, Node.js, Express.js and Google Gemini AI.
 
-        <p>
-          Full-stack AI-powered chat application
-          built using React.js, Node.js,
-          Express.js and Gemini AI.
+    Generates ATS-friendly resume bullet points from
+    project details instantly using AI, helping students
+    and developers create professional resumes with
+    impactful and optimized descriptions.
 
-          Supports intelligent AI-generated replies,
-          session-based chat history,
-          REST API integration and responsive UI.
+    Deployed on Vercel and Render with a responsive
+    modern user interface.
+  </p>
 
-          Designed to provide seamless conversational
-          experiences with modern AI capabilities.
-        </p>
+  <div className="project-links">
 
-        <div className="project-links">
+    <a
+      href="https://github.com/Jharwal77/ai-resume-bullet-generator"
+      target="_blank"
+      rel="noreferrer"
+    >
+      GitHub Repo
+    </a>
 
-          <a
-            href="https://github.com/Jharwal77/ai-private-chat-room"
-            target="_blank"
-            rel="noreferrer"
-          >
-            GitHub Repo
-          </a>
+    <a
+      href="https://ai-resume-bullet-generator.vercel.app/"
+      target="_blank"
+      rel="noreferrer"
+    >
+      Live Demo
+    </a>
 
-        </div>
+  </div>
 
-      </div>
+</div>
 
     </section>
   );
