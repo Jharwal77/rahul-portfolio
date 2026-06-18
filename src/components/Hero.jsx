@@ -102,7 +102,7 @@ function Hero() {
           </a>
 
           <a
-            href="/Rahul_Resume.pdf"
+            href="/RAHUL_MEENA_RESUME_.pdf"
             target="_blank"
             className="btn-outline"
           >
